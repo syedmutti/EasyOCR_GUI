@@ -8,9 +8,9 @@ This Project Packs EasyOCR Libaray in PyQt5 GUI
 
 * Install "anaconda" or "miniconda" 
 
-* From anaconda terminal: create an environment using the "requirements.txt" file
+* From anaconda terminal: create an environment using the "environment.yaml" file
 
-   ---> In Anaconda terminal : conda create --name your/env/name --file requirements.txt
+   ---> In Anaconda terminal : conda env create -n /your/env/name> -f environment.yaml
 
    ---> Please replace your/env/name with a desired name for your environment.
 
